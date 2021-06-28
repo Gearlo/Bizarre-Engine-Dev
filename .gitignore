@@ -1,0 +1,33 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+#*.so
+#*.dylib
+#*.dll
+
+
+# Compiled Static libraries
+#*.lai
+#*.la
+3rd/pc/build/*.a
+#*.lib
+
+# Executables
+#*.exe
+*.out
+*.app
+Bizarre
+Bizarre.exe
+maratis_log.txt
